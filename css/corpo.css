@@ -80,6 +80,10 @@ body{
     padding-bottom: 25px;
 
 }
+.whatsapp a img{
+    filter: var(--main-color);
+
+}
 
 #social-container li {
     flex: 1 1 0;
@@ -220,6 +224,7 @@ body{
     margin-top: 5px;
     
 }
+
 
 /* Mobile */
 @media screen {
